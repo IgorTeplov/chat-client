@@ -1,0 +1,11 @@
+HEADERS:
+# pirate
+-app/{}
+# settings
+-type/{}
+OPTIONS:
+# server
+-send/{}
+DATA:
+# name
+-name/{}
